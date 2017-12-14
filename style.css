@@ -6,14 +6,16 @@
 	padding: 10px 150px 10px 150px;
 
 	border-radius: 15px;
-	background-color: #PowderBlue;
+	background-color: PowderBlue;
 
 	text-align: left;
 }
 
 #content-professional {
 	font-size: 42px;
+	font-color: MidnightBlue;
 }
+	
 
 h1 {
 	font-size: 64px;
