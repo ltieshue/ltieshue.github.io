@@ -7,13 +7,14 @@
 
 	border-radius: 15px;
 	background-color: PowderBlue;
+	font-color: MidnightBlue;
 
 	text-align: left;
 }
 
 #content-professional {
 	font-size: 42px;
-	font-color: MidnightBlue;
+	
 }
 	
 
@@ -36,6 +37,10 @@ h3 {
 h4 {
 	font-size: 22px;
 	margin-bottom: -10px;
+}
+p {
+	font-size: 18px;
+	text-align: left;
 }
 
 li {
