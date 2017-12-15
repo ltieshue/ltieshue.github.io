@@ -3,11 +3,11 @@
 	margin-left: 200px;
 	margin-right: 200px;
 
-	padding: 10px 150px 10px 150px;
+	padding: 10px 15px 10px 15px;
 
 	border-radius: 15px;
 	background-color: LightSkyBlue;
-	font-color: MidnightBlue;
+	
 
 	text-align: left;
 }
@@ -40,7 +40,7 @@ h4 {
 	margin-bottom: -10px;
 }
 p {
-	font-size: 18px;
+	font-size: 24px;
 	text-align: left;
 }
 
