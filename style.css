@@ -6,7 +6,9 @@
 	padding: 10px 150px 10px 150px;
 
 	border-radius: 15px;
-	background-color: LightSkyBlue;
+	background-color: Plum;
+	text-color: #616A6B;
+	text-font: Arial;
 	
 
 	text-align: left;
@@ -20,7 +22,6 @@
 
 h1 {
 	font-size: 64px;
-	margin-bottom: -10px;
 	text-align: centered;
 	
 }
